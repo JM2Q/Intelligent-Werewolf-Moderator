@@ -1,0 +1,10 @@
+thumbs-up
+thumbs-down
+one
+two
+three
+four
+person
+openeye
+closeeye
+five
